@@ -14,10 +14,9 @@ Hello! I'm **Barbara Obayi**, a **Data Scientist & Product Manager** with a keen
 
 ## About Me  
 
-- 🔭 I’m currently working on **a data visualization project using MySQL & Power BI**  
+- 🔭 I’m currently working on **a data visualization project using MySQL & Tableau**  
 - 🌱 I’m currently learning **advanced data engineering & cloud-based analytics**  
-- 💬 Ask me about **SQL, Python, data visualization, and automating workflows**  
-- ⚡ Fun fact: **I transitioned from civil engineering to data science by convincing my dad that data science is just engineering applied to decision-making!**  
+- 💬 Ask me about **SQL, Python, data visualization, and automating workflows**   
 
 ---
 
