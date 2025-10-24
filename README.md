@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋  
 
-Hello! I'm **Barbara Obayi**, a **Data Scientist & Product Manager** with a keen interest in **data analytics, machine learning, and AI-driven solutions**. I love tackling complex data problems, optimizing workflows, and building solutions that drive real-world impact.  
+Hello! I'm **Barbara Obayi**, a **Machine Learning engineer and data scientist** with a keen interest in **data analytics, machine learning, and AI-driven solutions**. I love tackling complex data problems, optimizing workflows, and building solutions that drive real-world impact.  
 
 ---
 
@@ -14,9 +14,9 @@ Hello! I'm **Barbara Obayi**, a **Data Scientist & Product Manager** with a keen
 
 ## About Me  
 
-- 🔭 I’m currently working on **a data visualization project using MySQL & PowerBI**  
-- 🌱 I’m currently learning **advanced data engineering & cloud-based analytics**  
-- 💬 Ask me about **SQL, Python, data visualization, and automating workflows**   
+- I’m currently working on **my MSc Machine learning and deep learning**  
+- I’m learning **advanced data engineering & cloud-based analytics**  
+- Ask me about **ML, SQL, Python, data visualisation, and automating workflows**   
 
 ---
 
@@ -24,12 +24,12 @@ Hello! I'm **Barbara Obayi**, a **Data Scientist & Product Manager** with a keen
 
 Here are some technologies and tools I work with:  
 
-- **Programming Languages:** Python, SQL  
+- **Programming Languages:** Python, SQL, Matlab  
 - **Databases:** MySQL, PostgreSQL, BigQuery  
 - **Data Analytics & Visualization:** Power BI, Tableau  
-- **Machine Learning & AI:** Scikit-learn, MLflow  
+- **Machine Learning & AI:** Scikit-learn, MLflow, SciPy  
 - **Cloud Platforms:** Google Cloud (BigQuery, DataProc), AWS  
-- **Project Management & Collaboration:** GitHub, DagsHub, Jupyter Notebooks  
+- **Project Management & Collaboration:** GitHub, DagsHub, Google colab
 
 ---
 
